@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuriaswork. You can know more about me in https://www.linkedin.com/in/nuria-cambronero-es-mad-it/
+- 👋 Hi, I’m @nuriaswork. <!-- You can know more about me in https://www.linkedin.com/in/nuria-cambronero-es-mad-it/ -->
 - 👀 I’m interested in NET development, team management and team building.
 - 🌱 I have knowledge in C#, Visual Basic, SQL, JSON, JavaScript, HTML, and more. I have a degree in IT. I have some years of work experience in a few companies. 
 <!--- - 💞️ I’m looking to collaborate on... any backend project. --->
